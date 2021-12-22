@@ -1,2 +1,2 @@
 # Html-Css
-projects using only HTML &amp; CSS.
+this project is done using only HTML and CSS.
