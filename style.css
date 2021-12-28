@@ -23,6 +23,7 @@
     cursor:pointer;
     transition:color .4s;
     position:relative;
+    border: 2px solid black;  
   }
   .card:hover{
     color:white;
